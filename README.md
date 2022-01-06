@@ -1,3 +1,1 @@
-# xendit-test
-
-For xendit tech test
+# Golang BoilerApp
