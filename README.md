@@ -1,1 +1,1 @@
-# Golang BoilerApp
+# Golang App
